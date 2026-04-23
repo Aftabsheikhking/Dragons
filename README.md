@@ -1,3 +1,4 @@
+![1000119095](https://github.com/user-attachments/assets/4030b478-3853-45ff-9220-966d40ff9c06)
 flowchart TD
     START([START]) --> DEVICE[Device Detection<br/>Android/Windows/Linux]
     DEVICE --> LOAD[Load Cookies from File]
